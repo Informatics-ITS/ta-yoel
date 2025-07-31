@@ -1,5 +1,3 @@
-# 🏁 Tugas Akhir (TA) - Final Project
-
 **Nama Mahasiswa**: Yoel Mountanus Sitorus  
 **NRP**: 5025211078  
 **Judul TA**: Presentasi Data untuk Steganografi Citra dalam Domain Spasial  
@@ -9,8 +7,7 @@
 
 ## 📺 Demo Aplikasi  
 Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):  
-
-[![Demo Aplikasi](https://i.ytimg.com/vi/zIfRMTxRaIs/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
+[![Demo Aplikasi](https://github.com/user-attachments/assets/64eeb04b-351c-49b6-ada8-c0e6c5826322)](https://youtu.be/4UD09hlPTUE)  
 *Klik gambar di atas untuk menonton demo*
 
 ---
